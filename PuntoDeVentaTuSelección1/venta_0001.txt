@@ -1,0 +1,16 @@
+GASOLINERÍA EL SOL
+COMPROBANTE DE VENTA
+========================================
+Folio de venta   : 0001
+Fecha            : 28/09/2026 21:12:56
+Usuario de venta : empleado 1
+Cliente          : diego mendez
+----------------------------------------
+Producto         : Diésel
+Precio por litro : $23.90
+Litros           : 20
+----------------------------------------
+Subtotal         : $478.00
+IVA (16 %)        : $76.48
+TOTAL            : $554.48
+========================================

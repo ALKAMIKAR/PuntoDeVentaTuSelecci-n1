@@ -1,0 +1,16 @@
+GASOLINERÍA EL SOL
+COMPROBANTE DE VENTA
+========================================
+Folio de venta   : 0003
+Fecha            : 28/09/2026 21:44:41
+Usuario de venta : vendedor 3
+Cliente          : Cristopher chan
+----------------------------------------
+Producto         : Magna
+Precio por litro : $22.50
+Litros           : 40
+----------------------------------------
+Subtotal         : $900.00
+IVA (16 %)        : $144.00
+TOTAL            : $1,044.00
+========================================
